@@ -37,15 +37,15 @@ Project Reference Website：[kwea123/nerf_pl: NeRF (Neural Radiance Fields) and 
 下面是我运行的一些结果，可以参考
 Output Image/scene
 
-![008]([M:\Edit\Nerf_study\results\blender\lego\008.png](https://github.com/KEXA1/Nerf_study/blob/master/results/blender/lego/003.png))
+![008]([Outputimage1](https://github.com/KEXA1/Nerf_study/blob/master/results/blender/lego/003.png))
 
-![014]([M:\Edit\Nerf_study\results\blender\lego\014.png](https://github.com/KEXA1/Nerf_study/blob/master/results/blender/lego/001.png))
+![014]([Outputimage2](https://github.com/KEXA1/Nerf_study/blob/master/results/blender/lego/001.png))
 
 
 
 原图为(Input Image)
 
-![1]([M:\Edit\Nerf_study\data\plant\images\1.jpg](https://github.com/KEXA1/Nerf_study/blob/master/data/plant/images/1.png))
+![1](Inputimage1](https://github.com/KEXA1/Nerf_study/blob/master/data/plant/images/1.png))
 
 
 
