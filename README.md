@@ -129,7 +129,9 @@ Download the pretrained models and training logs in [release](https://github.com
 
 
 这个项目非常建议你结合我写的一篇博客观看（可选择）
+
 This project is highly recommended for you to watch in conjunction with a blog I wrote (optional)
+
 [(648条消息) Nerf代码学习笔记NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_出门吃三碗饭的博客-CSDN博客](https://blog.csdn.net/qq_40514113/article/details/131504791#comments_27442974)
 
 
