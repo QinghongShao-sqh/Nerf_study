@@ -17,11 +17,6 @@ I hope this repository can help you better understand and reproduce the code of 
 我希望这个仓库可以帮助您更好地理解和重现Nerf的代码。
 
 
-这个项目非常建议你结合我写的一篇博客观看（可选择）
-
-This project is highly recommended for you to watch in conjunction with a blog I wrote (optional)
-
-[(648条消息) Nerf代码学习笔记NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_出门吃三碗饭的博客-CSDN博客](https://blog.csdn.net/qq_40514113/article/details/131504791#comments_27442974)
 
 
 
@@ -131,6 +126,11 @@ Download the pretrained models and training logs in [release](https://github.com
 | [Original](https://github.com/bmild/nerf)  |  8.5 | 0.177s |
 | [Ref pytorch](https://github.com/yenchenlin/nerf-pytorch)  |  6.0 | 0.147s |
 | This repo | 3.2 | 0.12s |
+
+
+这个项目非常建议你结合我写的一篇博客观看（可选择）
+This project is highly recommended for you to watch in conjunction with a blog I wrote (optional)
+[(648条消息) Nerf代码学习笔记NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_出门吃三碗饭的博客-CSDN博客](https://blog.csdn.net/qq_40514113/article/details/131504791#comments_27442974)
 
 
 ### Finally, If you have any questions about my project, please leave a comment!
