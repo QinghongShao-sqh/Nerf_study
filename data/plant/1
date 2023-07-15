@@ -1,0 +1,19 @@
+
+       conda create --name llff -y python=3.8
+
+
+       conda activate llff
+
+
+       pip install -r requirements.txt
+
+       #在llff代码文件夹下运行
+
+
+
+
+
+
+
+
+1
