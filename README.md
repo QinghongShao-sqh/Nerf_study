@@ -33,7 +33,7 @@ Project Reference Website：[kwea123/nerf_pl: NeRF (Neural Radiance Fields) and 
 这里强烈感谢上面提及的提供项目参考的地址，其仓库代码给了我很大的帮助！
 
 
---------------------------分割线 update in 2023 0716------------------------------
+### --------------------------分割线 update in 2023 0716------------------------------
 
 About a classmate asking me a question
 "In the part of the code that converts to ndc coordinates, why d2 = 1 - o2, shouldn't it be 1. + 2. * near / rays_d[..., 2] - o2?"
