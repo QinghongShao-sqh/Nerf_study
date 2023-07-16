@@ -2,7 +2,7 @@
 
 
 
-# Introduction
+# （1）Introduction
 
 This is a replication project of my Nerf paper. Specific features include sharing my notes on the code as I went from nerf from 0 to 1.
 
@@ -19,7 +19,7 @@ I hope this repository can help you better understand and reproduce the code of 
 
 
 
-
+# （2）Project References
 Paper Website：[arxiv.org/pdf/2003.08934v2.pdf](https://arxiv.org/pdf/2003.08934v2.pdf)
 
 Project Reference Website：[kwea123/nerf_pl: NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning (github.com)](https://github.com/kwea123/nerf_pl)
@@ -33,7 +33,18 @@ Project Reference Website：[kwea123/nerf_pl: NeRF (Neural Radiance Fields) and 
 这里强烈感谢上面提及的提供项目参考的地址，其仓库代码给了我很大的帮助！
 
 
+--------------------------分割线 update in 2023 0716------------------------------
 
+About a classmate asking me a question
+"In the part of the code that converts to ndc coordinates, why d2 = 1 - o2, shouldn't it be 1. + 2. * near / rays_d[..., 2] - o2?"
+
+I wrote a corresponding article to explain Nerf's NDC space coordinate conversion. For details, see
+
+[NeRF神经辐射场中关于光线从世界坐标系转换为NDC坐标系 Representing Scenes as Neural Radiance Fields for View Synthesis_出门吃三碗饭的博客-CSDN博客](https://blog.csdn.net/qq_40514113/article/details/131746384?spm=1001.2014.3001.5502)
+
+
+
+# （3）My  Results
 下面是我运行的一些结果，可以参考
 Output Image/scene
 ![004.png](https://github.com/KEXA1/Nerf_study/blob/master/results/blender/lego/004.png?raw=true)
@@ -46,7 +57,7 @@ Output Image/scene
 
 
 
-# HOW TO  START  !
+# （4）HOW TO  START  !
 
 ## Blender
 <details>
@@ -134,7 +145,7 @@ This project is highly recommended for you to watch in conjunction with a blog I
 
 [(648条消息) Nerf代码学习笔记NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_出门吃三碗饭的博客-CSDN博客](https://blog.csdn.net/qq_40514113/article/details/131504791#comments_27442974)
 
-
+# （5）Conclusion
 ### Finally, If you have any questions about my project, please leave a comment!
 ### If my project can help you, I hope you can give me a star!
 ##The platform where I often move
